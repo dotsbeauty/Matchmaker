@@ -1,7 +1,7 @@
 # Matchmaker
 A simple matchmaker game in python
 
-![image](https://user-images.githubusercontent.com/55615529/121721625-148ba000-cb02-11eb-85a2-d55fd2c3ba96.png =100x20)
+![image](https://user-images.githubusercontent.com/55615529/121721625-148ba000-cb02-11eb-85a2-d55fd2c3ba96.png)
 
 ## Modules used
 ```
