@@ -2,6 +2,7 @@
 A simple matchmaker game in python
 
 ![image](https://user-images.githubusercontent.com/55615529/121721625-148ba000-cb02-11eb-85a2-d55fd2c3ba96.png)
+<img src="https://user-images.githubusercontent.com/55615529/121721625-148ba000-cb02-11eb-85a2-d55fd2c3ba96.png" width="48">
 
 ## Modules used
 ```
