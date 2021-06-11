@@ -5,7 +5,10 @@ from tkinter import *
   
 from time import strftime
 
-
+class Warspyking(Button):
+    def __init__(self, master=None, **kwargs):
+        self.img = PhotoImage()
+        Button.__init__(self, master, image=self.img, compound='center', **kwargs)
 
 def show_symbol(x,y):
     global first
@@ -56,7 +59,7 @@ random.shuffle(symbols)
 
 for x in range(6):
     for y in range(1,5):
-        button = Button(command = lambda x=x , y=y: show_symbol(x,y) , width = 10, height = 8)
+        button = Warspyking(command = lambda x=x , y=y: show_symbol(x,y) , width = 100, height = 150, font = ('Helvetica', '20'))
         button.grid(column = x , row = y)
         buttons[x,y] = button
         button_symbols[x,y] = symbols.pop()
