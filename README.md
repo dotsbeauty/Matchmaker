@@ -13,4 +13,4 @@ random
 Match all the characters by clicking on them.
 All the wrong attempt shown on top right corner.
 
-![image](https://user-images.githubusercontent.com/55615529/121721819-4d2b7980-cb02-11eb-9160-20ac4045f32b.png)
+<img src="https://user-images.githubusercontent.com/55615529/121721819-4d2b7980-cb02-11eb-9160-20ac4045f32b.png" width="400">
